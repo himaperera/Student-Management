@@ -30,12 +30,12 @@
 
 ### 1. Admin Login Portal
 The entrance to the system featuring a sleek, centered login card with input validation.
-![Login Screen](<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/5aaadbaa-fbb8-4664-a1b4-9e4f46a6f2ce" />
+![Login Screen]<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/5aaadbaa-fbb8-4664-a1b4-9e4f46a6f2ce" />
 )
 
 ### 2. Main Dashboard & Record List
 Overview of system statistics and the primary "All Students" data table.
-![Dashboard](<img width="1911" height="923" alt="image" src="https://github.com/user-attachments/assets/7d0ecd44-403f-4082-bc89-d9df914fa71c" />
+![Dashboard]<img width="1911" height="923" alt="image" src="https://github.com/user-attachments/assets/7d0ecd44-403f-4082-bc89-d9df914fa71c" />
 )
 
 ### 3. Edit Record Interface
