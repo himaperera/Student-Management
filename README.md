@@ -30,7 +30,7 @@
 
 ### 1. Admin Login Portal
 The entrance to the system featuring a sleek, centered login card with input validation.
-![Login Screen](image_ae3d59.png)
+![Login Screen](Screenshot(89).png)
 
 ### 2. Main Dashboard & Record List
 Overview of system statistics and the primary "All Students" data table.
