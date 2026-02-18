@@ -77,6 +77,6 @@ A specific view to update student details mapped to their unique ID.
 ---
 
 ## 🧑‍💻 Author
-**[Your Name]** *Software Engineering Student at NSBM Green University*
+**[Himaya Sandamini Perera]** *Software Engineering Student at NSBM Green University*
 
 ---
