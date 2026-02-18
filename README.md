@@ -34,11 +34,11 @@ The entrance to the system featuring a sleek, centered login card with input val
 
 ### 2. Main Dashboard & Record List
 Overview of system statistics and the primary "All Students" data table.
-![Dashboard](image_ae3d79.png)
+![Dashboard](Screenshot(88).png)
 
 ### 3. Edit Record Interface
 A specific view to update student details mapped to their unique ID.
-![Edit Student](image_ae3db5.png)
+![Edit Student](Screenshot(87).png)
 
 ---
 
